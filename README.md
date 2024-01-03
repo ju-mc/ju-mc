@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Julie 👋
+
+I'm in my final year of CLMS. I live in Miami where I work remotely for a startup called Curiouser.ai (part time). 
 
 <!--
 **ju-mc/ju-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
